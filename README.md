@@ -2,7 +2,7 @@
 ## [微信开放文档](https://developers.weixin.qq.com/doc/)
 基于微信生态的开放能力，赋能私域流量，提供请求示例
 
-## 模块链接
+### 模块链接
 - [小程序](./miniprogram)
 - [小游戏](./minigame)
 - [小商店](./ministore)
