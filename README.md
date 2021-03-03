@@ -1,6 +1,6 @@
 
 ## [微信开放文档](https://developers.weixin.qq.com/doc/)
-介绍微信生态的开放能力和请求demo
+基于微信生态的开放能力，赋能私域流量，提供请求示例
 
 ## 模块链接
 - [小程序](./miniprogram)
